@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RenderProject/static/css/main.cdd6db03.css",
+    "main.js": "/RenderProject/static/js/main.c43f97e8.js",
+    "index.html": "/RenderProject/index.html",
+    "main.cdd6db03.css.map": "/RenderProject/static/css/main.cdd6db03.css.map",
+    "main.c43f97e8.js.map": "/RenderProject/static/js/main.c43f97e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdd6db03.css",
+    "static/js/main.c43f97e8.js"
+  ]
+}
